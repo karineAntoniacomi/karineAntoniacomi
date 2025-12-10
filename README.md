@@ -3,7 +3,7 @@
 ## ✨<b>Karine Antoniacomi</b>✨ 
 Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente atuando como Desenvolvedora Júnior Java Backend. Além disso, possuo experiência de estágio em Desenvolvimento Android Frontend com Java e Kotlin.
 
-** Sobre mim:
+### Sobre mim:
 - 🌱 Estou atualmente estudando Java para Backend.
 - 👩 Pronomes: ela/dela.
 - 🎮 Gosto de jogar videogames e assistir séries.
