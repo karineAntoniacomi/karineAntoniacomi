@@ -1,12 +1,14 @@
 ### Hi there 👋
 
 ## ✨<b>Karine Antoniacomi</b>✨ 
-Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente em busca de uma vaga de Desenvolvedora Júnior em Backend ou Frontend, preferencialmente em Java. Tenho experiência de estágio em Desenvolvimento Frontend com Java e Kotlin para Mobile Android.
+Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente atuando como Desenvolvedora Júnior Java Backend. Além disso, possuo experiência de estágio em Desenvolvimento Android Frontend com Java e Kotlin.
 
 - 🌱 Estou atualmente estudando Java para Backend.
 - 😄 Pronomes: ela/dela.
-- ⚡ Curiosidades: Gosto de jogar videogames e assistir séries.
-- 🐰 Tenho Pets não-convencionais: 2 Chinchilas. 💞
+- ⚡Curiosidades: Gosto de jogar videogames e assistir séries.
+- 🐰 Tenho Pets não-convencionais: Chinchilas.
+- 🧬 Cursei alguns anos de Ciências Biológicas na UFPR.
+- 📊 Me interesso também pela área de Análise de Dados e Bioinformática.
 
 <br><b>Conecte-se comigo</b><br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karine-antoniacomi/) 
