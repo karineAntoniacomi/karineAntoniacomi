@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-## ✨<b>Karine Antoniacomi</b>✨ 
-Oi! Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente atuando como Desenvolvedora Júnior Java Backend. Além disso, possuo experiência de estágio em Desenvolvimento Android Frontend com Java e Kotlin.
+## <b>Karine Antoniacomi</b>
+Eu sou a Karine, formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela UFPR e atualmente atuando como Engenheira de Software Java Backend. 
 
 ### Sobre mim:
-- 🌱 Estou atualmente estudando Java para Backend.
-- 👩 Pronomes: ela/dela.
-- 🎮 Gosto de jogar videogames e assistir séries.
-- 🐰 Tenho Pets não-convencionais: Chinchilas.
-- 🧬 Cursei alguns anos de Ciências Biológicas na UFPR.
+- ⛏ Trabalhando/estudando Java para Backend.
+- 🧬Cursei alguns anos de Ciências Biológicas na UFPR.
 - 📊 Me interesso também pela área de Análise de Dados e Bioinformática.
 
 <br><b>Conecte-se comigo</b><br> 
